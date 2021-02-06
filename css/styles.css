@@ -587,6 +587,7 @@ img {
 
 .footer-flex {
   display: flex;
+  justify-content: space-between;
 }
 
 .join {
@@ -938,6 +939,7 @@ textarea {
 }
 
 .subscribe-input {
+  color: var(--white-text-color);
   width: 358px;
   height: 50px;
   padding-left: 16px;
